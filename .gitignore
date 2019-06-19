@@ -1,1 +1,9 @@
 # Created by .ignore support plugin (hsz.mobi)
+### my-git-ignore template
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
